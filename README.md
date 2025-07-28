@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Basics of Full Stack
 - 💞️ I’m looking to learn
 - 📫 Send me at singhanshkumar299@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him 
 
 <!---
 AnshKumar299/AnshKumar299 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
